@@ -37,8 +37,13 @@ public class ofl extends JFrame {
 		JPanel dataPanel = new JPanel();
 		dataPanel.setLayout(new GridLayout(2,1,5,5));
 		JLabel waterLabel = new JLabel("Water Depth");
-		
 		dataPanel.add(waterLabel);
+		JLabel featuresLabel = new JLabel("Features");
+		dataPanel.add(featuresLabel);
+		JLabel productivityLabel = new JLabel("Productivity");
+		dataPanel.add(productivityLabel);
+		JLabel habitatLabel = new JLabel("Habitat");
+		dataPanel.add(habitatLabel);
 		
 		
 		JPanel textFieldPanel = new JPanel();
