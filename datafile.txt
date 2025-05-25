@@ -1,0 +1,20 @@
+plains 
+10,000ft 
+Hills,valleys, and seamounts.
+The largest habitat on earth and less productive than the continental shelf.
+Biodiversity, and a wide variety of life.
+ridge  
+8,000ft
+Hills, valleys, and seamounts(under water mountains).
+The largest habitat on earth. New floor is created as tectonic plates spread apart. There are many volcanoes that cover the mid ocean ridge(longest mountain range on earth).
+None.
+shelf 
+A few hundred feet deep.
+Guyots, submarine volcanic fields, interacting fans, seafloor channels, levees, and landslide scarps.
+Relatively productive light and nutrients.
+None.
+trench 
+36,201ft
+Deepest place in the ocean.
+None.
+None.
